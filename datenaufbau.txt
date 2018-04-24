@@ -1,0 +1,22 @@
+name
+spielerzahl
+alter
+laenge
+typ
+	cout << "   (1)strategie" << endl;
+	cout << "   (2)aufbau" << endl;
+	cout << "   (3)fantasy sf escapistisch" << endl;
+	cout << "   (4)karten" << endl;
+	cout << "   (5)glück" << endl;
+	cout << "   (6)party" << endl;
+	cout << "   (7)geschicklichkeit" << endl;
+	cout << "   (8)kommunikation" << endl;
+
+abfolge beim lotto:
+
+cout << "[0]alter&spielerzahl" << endl;
+		cout << "[1]alter&typ" << endl;
+		cout << "[2]alter&laenge" << endl;
+		cout << "[3]spielerzahl&laenge" << endl;
+		cout << "[4]spielerzahl&typ" << endl;
+		cout << "[5]laenge&typ" << endl;
